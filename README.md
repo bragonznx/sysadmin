@@ -9,17 +9,26 @@
 *Vous* :
 
 Master dans l'art du contexte switching vous n'avez pas peur de faire deux choses à la fois sans rien oublier.
+
 Autonome, vous avez un don pour la communication écrite et Orale et êtes capable de mettre en place des infrastructures permettant d’accueillir des solutions mouton à 5 pattes de clients.
+
 Directement rattaché au CTO, vous serez en charge de la maintenance des serveurs et cluster de nos clients, mais également du design de nouvelles plateformes.
+
 
 *Compétances humaine et technique souhaitées* :
 
 Vous savez combler les vides, et votre surnom au college était "le caméléon".
+
 Vous êtes jusquauboutiste mais possédez assez de clairvoyance pour savoir aussi que : "le mieux est l'ennemi du bien"
+
 Vos talents en communication font que vous êtes TOUJOURS un collaborateur apprécié de vos collègues.
+
 Vous savez faire preuve de sacrifice lorsque necessaire pour faire avancer un projet ! 
+
 Vous avez eu un appartement et/ou une chambre à coucher jonché de machines désossés durant des années. (ou vous l'avez encore !)
+
 Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support comment internet fonctionne.
+
 
 *La liste n'est pas complète et peut être amené à évoluer* :
 
@@ -45,6 +54,7 @@ Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support com
 * Vous savez degainer : Ettercap, tcpdump, Wireshark et run un programme dans gdb ou strace.
 * Vous savez discuter avec les ingenieurs reseau en charge du backbone en cas de problèmes liés au réseau sans paraitre largué et/ou en orientant le diagnostique afin de gagner du temps.
 
+
 *Nous vous offrons* :
 
 Un environnement agile à la fois à taille humaine et internationnal.
@@ -53,6 +63,7 @@ L'environnement de travail est plaisant et stimulant au sein d’une jeune équi
 Une entreprise permettant à un potentiel comme le vôtre d’élargir rapidement ses responsabilités dans le cadre du fort développement de l’entreprise.
 Nous nous occupons d'un backbone international, nous travaillons sur plus de 90 datacenters.
 Nous travaillons à la création de nouveaux points de présence pour nos solutions d'hébergement CLOUD.
+
 
 *Vos plus* :
 
@@ -67,6 +78,17 @@ Nous travaillons à la création de nouveaux points de présence pour nos soluti
 * Vous savez que la réponse est 42, mais le principe c'est surtout de se souvenir de la question.
 
 Merci pour tout l'poisson, et d'envoyer vos CV au format *PDF* + mails d'intro à : recruitment@carinaegroup.com
+
+*Remuneration* : 
+
+La remuneration est en parfaite adequation avec les compétances et le marché.
+
+La rémunération dispose d'une partie fixe et d'une partie variable en fonction d'objectifs.
+
+Les astreintes sont rémunérées en sus du package proposé.
+
+
+*post scriptum* : 
 
 Nous savons qu'il est très difficile de répondre à toutes les facettes de cette description de poste.
 Nous souhaitons trouver la personne cochant le maximum de cases :)
