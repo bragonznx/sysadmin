@@ -1,18 +1,18 @@
 # apt-get install sysadmin
-# dpkg --reconfigure devops
-# emerge -DNuav world
 
   Description du poste : Ingenieur systeme
+
   CDI plein temps
+
   Localisations : Londres, Luxembourg, Nanterre, Dublin  (dans l'ordre des préférences)
 
-Vous :
+*Vous* :
 
 Master dans l'art du contexte switching vous n'avez pas peur de faire deux choses à la fois sans rien oublier.
 Autonome, vous avez un don pour la communication écrite et Orale et êtes capable de mettre en place des infrastructures permettant d’accueillir des solutions mouton à 5 pattes de clients.
 Directement rattaché au CTO, vous serez en charge de la maintenance des serveurs et cluster de nos clients, mais également du design de nouvelles plateformes.
 
-Compétances humaine et technique souhaitées :
+*Compétances humaine et technique souhaitées* :
 
 Vous savez combler les vides, et votre surnom au college était "le caméléon".
 Vous êtes jusquauboutiste mais possédez assez de clairvoyance pour savoir aussi que : "le mieux est l'ennemi du bien"
@@ -21,7 +21,7 @@ Vous savez faire preuve de sacrifice lorsque necessaire pour faire avancer un pr
 Vous avez eu un appartement et/ou une chambre à coucher jonché de machines désossés durant des années. (ou vous l'avez encore !)
 Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support comment internet fonctionne.
 
-La liste n'est pas complète et peut être amené à évoluer :
+*La liste n'est pas complète et peut être amené à évoluer* :
 
 (100% des technologies et des items ne sont pas demandés, mais le maximum est le mieux).
 
@@ -45,7 +45,7 @@ La liste n'est pas complète et peut être amené à évoluer :
 * Vous savez degainer : Ettercap, tcpdump, Wireshark et run un programme dans gdb ou strace.
 * Vous savez discuter avec les ingenieurs reseau en charge du backbone en cas de problèmes liés au réseau sans paraitre largué et/ou en orientant le diagnostique afin de gagner du temps.
 
-Nous vous offrons :
+*Nous vous offrons* :
 
 Un environnement agile à la fois à taille humaine et internationnal.
 La possibilité de partir à l'étranger dans une évolution de carrière.
@@ -54,7 +54,7 @@ Une entreprise permettant à un potentiel comme le vôtre d’élargir rapidemen
 Nous nous occupons d'un backbone international, nous travaillons sur plus de 90 datacenters.
 Nous travaillons à la création de nouveaux points de présence pour nos solutions d'hébergement CLOUD.
 
-Vos plus :
+*Vos plus* :
 
 * Bilingue en Anglais
 * Vous avez une expérience en developpement backend avec des connaissances en Python.
