@@ -81,7 +81,7 @@ Merci pour tout l'poisson, et d'envoyer vos CV au format *PDF* + mails d'intro �
 
 # *Remuneration* : 
 
-La remuneration est en parfaite adéquation avec les compétances et le marché.
+La remuneration est en parfaite adéquation avec les compétences et le marché.
 
 La rémunération dispose d'une partie fixe et d'une partie variable en fonction d'objectifs.
 
