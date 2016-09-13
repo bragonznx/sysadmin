@@ -6,7 +6,7 @@
 
   Localisations : Londres, Luxembourg, Nanterre, Dublin  (dans l'ordre des préférences)
 
-*Vous* :
+# *Vous* :
 
 Master dans l'art du contexte switching vous n'avez pas peur de faire deux choses à la fois sans rien oublier.
 
@@ -15,7 +15,7 @@ Autonome, vous avez un don pour la communication écrite et Orale et êtes capab
 Directement rattaché au CTO, vous serez en charge de la maintenance des serveurs et cluster de nos clients, mais également du design de nouvelles plateformes.
 
 
-*Compétances humaine et technique souhaitées* :
+# *Compétances humaine et technique souhaitées* :
 
 Vous savez combler les vides, et votre surnom au college était "le caméléon".
 
@@ -30,7 +30,7 @@ Vous avez eu un appartement et/ou une chambre à coucher jonché de machines dé
 Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support comment internet fonctionne.
 
 
-*La liste n'est pas complète et peut être amené à évoluer* :
+# *La liste n'est pas complète et peut être amené à évoluer* :
 
 (100% des technologies et des items ne sont pas demandés, mais le maximum est le mieux).
 
@@ -55,7 +55,7 @@ Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support com
 * Vous savez discuter avec les ingenieurs reseau en charge du backbone en cas de problèmes liés au réseau sans paraitre largué et/ou en orientant le diagnostique afin de gagner du temps.
 
 
-*Nous vous offrons* :
+# *Nous vous offrons* :
 
 Un environnement agile à la fois à taille humaine et internationnal.
 La possibilité de partir à l'étranger dans une évolution de carrière.
@@ -65,7 +65,7 @@ Nous nous occupons d'un backbone international, nous travaillons sur plus de 90 
 Nous travaillons à la création de nouveaux points de présence pour nos solutions d'hébergement CLOUD.
 
 
-*Vos plus* :
+# *Vos plus* :
 
 * Bilingue en Anglais
 * Vous avez une expérience en developpement backend avec des connaissances en Python.
@@ -79,16 +79,16 @@ Nous travaillons à la création de nouveaux points de présence pour nos soluti
 
 Merci pour tout l'poisson, et d'envoyer vos CV au format *PDF* + mails d'intro à : recruitment@carinaegroup.com
 
-*Remuneration* : 
+# *Remuneration* : 
 
-La remuneration est en parfaite adequation avec les compétances et le marché.
+La remuneration est en parfaite adéquation avec les compétances et le marché.
 
 La rémunération dispose d'une partie fixe et d'une partie variable en fonction d'objectifs.
 
 Les astreintes sont rémunérées en sus du package proposé.
 
 
-*post scriptum* : 
+# *post scriptum* : 
 
 Nous savons qu'il est très difficile de répondre à toutes les facettes de cette description de poste.
 Nous souhaitons trouver la personne cochant le maximum de cases :)
