@@ -15,7 +15,7 @@ Autonome, vous avez un don pour la communication écrite et Orale et êtes capab
 Directement rattaché au CTO, vous serez en charge de la maintenance des serveurs et cluster de nos clients, mais également du design de nouvelles plateformes.
 
 
-# *Compétances humaine et technique souhaitées* :
+# *Compétences humaines et techniques souhaitées* :
 
 Vous savez combler les vides, et votre surnom au college était "le caméléon".
 
@@ -25,7 +25,7 @@ Vos talents en communication font que vous êtes TOUJOURS un collaborateur appr�
 
 Vous savez faire preuve de sacrifice lorsque necessaire pour faire avancer un projet ! 
 
-Vous avez eu un appartement et/ou une chambre à coucher jonché de machines désossés durant des années. (ou vous l'avez encore !)
+Vous avez eu un appartement et/ou une chambre à coucher jonché de machines désossées durant des années. (ou vous l'avez encore !)
 
 Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support comment internet fonctionne.
 
@@ -40,15 +40,15 @@ Vous êtes capable d'expliquer de bout en bout au tableau blanc sans support com
 * Administration de serveurs GNU/Linux (Debian Mandatory)
 * Scripting Bash Shell, Python, Ruby.
 * Configuration, administration et fine tuning de serveurs Web Nginx, Apache, mod_php, phpfpm, MySQL, PgSQL, Cassandra.
-* Support aux équipes d'avant vente dans la réponse aux appels d'offre complexe.
+* Support aux équipes d'avant vente dans la réponse aux appels d'offre complexes.
 * Mise en place d'intégration continue, et de système de déploiement automatique.
 * Virtualisation avec au minimum la technologie KVM 100% maitrisé. (vmware 5.5, Xen, docker)
 * Maitrise de la mise en place de MySQL MASTER/MASTER MASTER/SLAVE, Expérience en MariaDB Galera apprécié
 * Heartbeat, haproxy, keepalived, ucarp sont maitrisés et connu.
-* Rédaction de cahier de migration pour des projets complexe.
+* Rédaction de cahier de migration pour des projets complexes.
 * Support aux équipes de gestion de projets pour les phases d'audit et de livraison.
 * Mise en place et recette des sondes de monitoring : Nagios, icinga, Collectd, Zabbix, prtg.
-* Réponses aux tickets de niveau2 et 3 et participation au support des plateforme au jour le jour.
+* Réponses aux tickets de niveau2 et 3 et participation au support des plateformes au jour le jour.
 * Capacité à gérer le stress et des projets complexe.
 * Réalisation d'astreintes
 * Vous savez degainer : Ettercap, tcpdump, Wireshark et run un programme dans gdb ou strace.
@@ -91,5 +91,7 @@ Les astreintes sont rémunérées en sus du package proposé.
 # *post scriptum* : 
 
 Nous savons qu'il est très difficile de répondre à toutes les facettes de cette description de poste.
+
 Nous souhaitons trouver la personne cochant le maximum de cases :)
+
 Bonne chance
