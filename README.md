@@ -77,7 +77,7 @@ Nous travaillons à la création de nouveaux points de présence pour nos soluti
 * Vous avez lu tout Tolkien, Herbert, Loisel et êtes plus comme Léonard que Sheldon.
 * Vous savez que la réponse est 42, mais le principe c'est surtout de se souvenir de la question.
 
-Merci pour tout l'poisson, et d'envoyer vos CV au format *PDF* + mails d'intro à : recruitment@carinaegroup.com
+Merci pour tout l'poisson, et d'envoyer vos CV au format *PDF* + mails d'intro à : alex[at]BSO[dot]cloud
 
 # *Remuneration* : 
 
