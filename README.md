@@ -4,7 +4,7 @@
 
   CDI plein temps
 
-  Localisations : Londres, Casabalnca, Nanterre, Luxembourg, Dublin  (dans l'ordre des préférences)
+  Localisations : Londres, Casablanca, Nanterre, Luxembourg, Dublin  (dans l'ordre des préférences)
 
 # *Vous* :
 
